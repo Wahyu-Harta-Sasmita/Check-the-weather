@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.apps {
+    text-align: center;
+    border: 1px solid skyblue;
+    background-color: skyblue;
+    box-shadow: 10px 5px 10px;
+    width: 500px;
+    height: 700px;
+    margin: 5% auto;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+.apps h1 {
+    font-size: 65px;
+
+}
+
+.apps .box {
+    margin-bottom: 50px;
+}
+
+.apps .box .keyword {
+    width: 200px;
+    height: 20px;
+    border-radius: 40px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    -ms-border-radius: 40px;
+    -o-border-radius: 40px;
+}
+
+.apps .box button {
+    width: 60px;
+    height: 20px;
+    border-radius: 40px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    -ms-border-radius: 40px;
+    -o-border-radius: 40px;
+}
+
+.apps .box button:hover {
+    background-color: blue;
+}
+
+.apps #container p {
+    font-size: 20px;
+}
+
+.apps #container h2 {
+    margin-bottom: 30px;
+}
+
+.apps #container .content {
+    width: 150px;
+    margin: auto;
+}
+
+.apps #container .content img {
+    width: 120px;
+    height: 120px;
+}
+
+.apps #container .content p {
+    font-size: 30px;
+}
